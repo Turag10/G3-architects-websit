@@ -187,6 +187,33 @@ main > section{
     color: white;
     background-color: #ff900E;
 }
+.footer {
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.bg-dark {
+    background-color:grey;
+    margin-left: 300px;
+    margin-right: 300px;
+    gap: 100px;
+}
+
+.text-light-gray {
+    color: #bbb;
+}
+
+.footer-link {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer-link:hover {
+    text-decoration: underline;
+}
+
 
 
 @media screen and (max-width: 576px){
